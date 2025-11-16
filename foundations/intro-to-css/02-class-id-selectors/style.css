@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.subsection {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+    font-family: DejaVu Sans, sans-serif;
+}
+.subsection.preview {
+    font-size: 24px;
+}
+
+#title {
+    font-size: 36px;
+    color: blue;
+}
+
+#title2 {
+    font-size: 24px;
+    background-color: rgb(86, 199, 86);
+    font-weight: bold;
+}

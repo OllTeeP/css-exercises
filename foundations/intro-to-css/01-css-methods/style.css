@@ -1,0 +1,7 @@
+div {
+  color: white;             /* Text color will be white */
+  background-color: red;  /* Background color will be black */
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+}

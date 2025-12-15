@@ -10,7 +10,7 @@ img {
     display: flex;
   flex-direction: row;
   justify-content: center;
-  gap: 200px;
+  gap: 100px;
 }
 
 .textful{

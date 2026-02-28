@@ -1,11 +1,13 @@
 /* Add CSS Styling */
-.class {
+.one,
+.two {
 font-size: 28px;
 font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
-.class.one {
-
+.one {
+background-color: black;
+color: white;
 }
-.class.two {
-
+.two {
+background-color: yellow;
 }

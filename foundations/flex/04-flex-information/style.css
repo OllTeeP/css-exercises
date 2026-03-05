@@ -11,6 +11,13 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  padding-bottom: 32px;
+}
+
+.images, .sentence {
+  display: flex;
+  justify-content: space-evenly;
+
 }
 
 /* do not edit this footer */

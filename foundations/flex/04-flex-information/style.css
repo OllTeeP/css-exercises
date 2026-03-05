@@ -19,6 +19,10 @@ img {
   justify-content: space-evenly;
 }
 
+.sentence {
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;

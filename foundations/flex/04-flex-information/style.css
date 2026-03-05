@@ -17,7 +17,6 @@ img {
 .images, .sentence {
   display: flex;
   justify-content: space-evenly;
-
 }
 
 /* do not edit this footer */

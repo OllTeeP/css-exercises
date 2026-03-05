@@ -20,11 +20,13 @@ body {
 .first {
   display: flex;
   gap: 16px;
+  margin-left: 8px;
 }
 
 .second {
   display: flex;
   gap: 16px;
+  margin-right: 8px;
 }
 .profile-image {
   background: rebeccapurple;

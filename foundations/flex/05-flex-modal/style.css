@@ -20,22 +20,6 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  margin: 10px;
-}
-
-.container {
-  display: flex;
-  padding: 16px;
-}
-
-.header {
-  font-size: 20px;
-  font-weight: bold;
-}
-
-#mid {
-  padding-top: 6px;
-  padding-bottom: 6px;
 }
 
 .icon {
@@ -49,7 +33,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-right: 16px;
 }
 
 .close-button {

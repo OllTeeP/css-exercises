@@ -24,23 +24,3 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
-
-ul {
-  display: flex;
-  list-style-type: none;
-  padding-left: 0;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  padding-left: 8px;
-  padding-right: 8px;
-}
-
-.footer {
-  display: flex;
-  justify-content: space-between;
-  padding-left: 8px;
-  padding-right: 8px;
-}

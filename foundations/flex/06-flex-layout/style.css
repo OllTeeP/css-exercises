@@ -27,9 +27,13 @@ input {
 
 ul {
   display: flex;
+  list-style-type: none;
+  padding-left: 0;
 }
 
 .header, .footer {
   display: flex;
   justify-content: space-between;
+  padding-left: 8px;
+  padding-right: 8px;
 }

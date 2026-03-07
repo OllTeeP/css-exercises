@@ -47,6 +47,7 @@ ul {
 
 .left-links, .right-links {
   display: flex;
+  padding-left: 0;
 }
 
 .content {

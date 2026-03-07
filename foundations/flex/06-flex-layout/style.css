@@ -47,3 +47,7 @@ ul {
 .left-links, .right-links {
   display: flex;
 }
+
+.content {
+  text-align: center;
+}

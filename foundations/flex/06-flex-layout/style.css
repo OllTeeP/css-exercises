@@ -28,3 +28,7 @@ input {
 ul {
   list-style-type: none;
 }
+
+.container {
+  display: flex;
+}

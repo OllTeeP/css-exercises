@@ -42,7 +42,7 @@ ul {
 .footer {
   display: flex;
   justify-content: space-between;
-  background-color: black;
+  background-color: #eeeeee;
 }
 
 .left-links, .right-links {

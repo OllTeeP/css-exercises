@@ -52,4 +52,6 @@ ul {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  text-align: center;
+  align-items: center;
 }

@@ -48,8 +48,12 @@ ul {
 
 .card-con {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .card {
-  padding: 48px;
+  width: 200px;
+  height: 200px;
+  padding: 28px;
+  margin: 16px;
 }

@@ -45,3 +45,11 @@ ul {
   display: flex;
   flex: 1;
 }
+
+.card-con {
+  display: flex;
+}
+
+.card {
+  padding: 48px;
+}
